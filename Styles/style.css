@@ -1,3 +1,14 @@
 body {
 	background-color: rgba(14, 214, 241, 1);
 }
+.plain-list{
+	list-style: none;
+}
+#ProfileImage{
+	width: 300px;
+	float: right;
+}
+p {
+	color: white;
+	font-family: ;
+}
