@@ -6,7 +6,7 @@ body {
 	list-style: none;
 }
 #ProfileImage{
-	width: 400px;
+	width: 300px;
 	float: right;
 }
 p {
@@ -15,4 +15,10 @@ p {
 
 a:hover {
 	color: purple;
+}
+
+@media (max-width: 400px){
+	#ProfileImage{
+		width: 120px;
+	}
 }
